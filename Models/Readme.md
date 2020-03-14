@@ -2,4 +2,4 @@
 
 - __GAN_E_Coli.ipynb__ : Is a DCGAN for the E.Coli Bacterial data.
 
-- __Variational_Autoencoder_E_Coli.ipynb__ : Is a variational autoencoder also having a classifier similar to the paper: https://arxiv.org/pdf/1908.06278.pdf.
+- __Variational_Autoencoder_E_Coli.ipynb__ : Is a variational autoencoder also having a classifier similar to this [paper] (https://arxiv.org/pdf/1908.06278.pdf).
